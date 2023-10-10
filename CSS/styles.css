@@ -14,3 +14,7 @@ p {
     font-size: 35px;
     font-style: oblique;
 }
+
+.div {
+    border-radius: 30px;
+}
