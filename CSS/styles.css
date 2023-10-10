@@ -1,0 +1,16 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+    border-radius: 30px;
+    background-color: rgba(188, 188, 188, 0.835);
+    border-style: dashed;
+}
+body {
+    background-color: rgb(253, 172, 20);
+    text-align: center;
+}
+
+p {
+    font-size: 35px;
+    font-style: oblique;
+}
